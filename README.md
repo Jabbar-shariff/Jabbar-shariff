@@ -1,75 +1,132 @@
-# 💫 About Me:
-👋 Hi, I'm Jabbar Shariff!
-<br>
-🚀 Full-Stack Developer | 🐍 Python Enthusiast | 💡 Problem Solver
-<br><br>
-💻 A passionate and detail-oriented Full Stack Developer with a strong foundation in Python and a love for creating seamless, scalable, and impactful applications.
-<br><br>
-🌐 I thrive on turning ideas into reality by combining creativity with technical expertise. From designing intuitive user interfaces to building robust back-end systems, I enjoy every step of the development journey
-<br><br>
-🛠️ Tech Stack & Skills:
-<br><br>
-🌐 Frontend: HTML | CSS | JavaScript | Bootstrap<br>⚙️ Backend: Python | Django | Flask<br>🗄️ Database: MySQL
-<br>
-📡 Networking: Network Security | TCP/IP | Routing & Switching<br>🚀 Tools & DevOps: Git | Docker 
-<br><br>
-🌐 Networking Knowledge:<br>I have a solid understanding of networking concepts, which helps me build secure, efficient, and scalable applications. My expertise includes:
-<br><br>
-🔗 Protocols: TCP/IP, HTTP/HTTPS, FTP, SMTP, DNS<br>🔒 Security: SSL/TLS, VPNs, Firewalls,
-<br>
-🌍 Network Design: LAN, WAN, Subnetting, Routing, and Switching
-<br>
-🖥️ Linux & System Admin: Ubuntu | CentOS | Shell Scripting | Server Management
-<br><br>
-🌟 What I Do:
-<br><br>
-🛠️ Full-Stack Development – Creating dynamic and interactive web applications using Python, Django, Flask, HTML, CSS, JavaScript, and Bootstrap<br>🧩 Solve complex problems with clean, efficient, and maintainable code.<br>🤖 Automate repetitive tasks to improve productivity and efficiency.
-<br>
-🚀 Networking & Systems – Configuring, troubleshooting, and securing network infrastructure with expertise in TCP/IP, Routing, Switching, and Security.
-<br>
-🌍 Contribute to open-source projects and collaborate with the global developer community.<br><br>📌 Why Work With Me?
-<br><br>
-✅ I love solving real-world problems through technology
-<br>
-✅ I have a deep understanding of networking principles & backend development
-<br>
-✅ I enjoy collaborating with teams and sharing knowledge
-<br>
-✅ I am always learning and exploring new technologies
-<br><br>
-🎯 Fun Facts About Me:
-<br><br>
-🚀 I enjoy debugging and optimizing code for better performance
-<br>
-🌍 Passionate about network security and automation
-<br>
-💡 Constantly experimenting with new frameworks & technologies
-<br>
-🎯 I believe in continuous learning & innovation
-<br><br>
+# Network Engineer | Desktop Support
 
+Welcome to my professional portfolio! I am **Jabbar Shariff**, an IT enthusiast focused on **networking, desktop support, and IT infrastructure**. This repository documents my technical knowledge, hands-on lab practice, troubleshooting approach, and learning projects.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jabbar-shariff/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hjabbarshariff@gmail.com) 
+## Professional Focus
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Jabbar-shariff&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Jabbar-shariff&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jabbar-shariff&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+- Network fundamentals and TCP/IP
+- Cisco switching and routing concepts
+- VLAN configuration and inter-VLAN routing
+- DHCP configuration and troubleshooting
+- Windows installation, configuration, and support
+- Desktop and end-user technical support
+- Basic server maintenance and RAID concepts
+- Network diagnostics and problem-solving
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+## Technical Skills
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Jabbar-shariff&limit=5&theme=dark&combine_all_yearly_contributions=true)
+| Area | Skills and Tools |
+|---|---|
+| Networking | OSI model, TCP/IP, IPv4 addressing, subnetting, DNS, DHCP |
+| Switching & Routing | Cisco concepts, VLANs, trunking, Router-on-a-Stick, inter-VLAN routing |
+| Troubleshooting | `ping`, `ipconfig`, `tracert`, `nslookup`, `arp` |
+| Operating Systems | Windows installation, configuration, and troubleshooting |
+| Network Labs | Cisco Packet Tracer |
+| Infrastructure | Basic server maintenance, storage, and RAID concepts |
+| Support | Hardware/software troubleshooting and end-user support |
+
+## Featured Learning Areas
+
+### 1. Networking Fundamentals
+- Understand the OSI and TCP/IP models.
+- Work with IPv4 addressing and subnet masks.
+- Explore DNS, DHCP, gateways, and basic network services.
+
+### 2. VLANs and Inter-VLAN Routing
+- Create and assign VLANs, such as VLAN 10 and VLAN 20.
+- Configure access and trunk ports in lab environments.
+- Practise inter-VLAN routing using Router-on-a-Stick.
+- Verify connectivity between network segments.
+
+### 3. DHCP
+- Study DHCP scopes, address allocation, and lease concepts.
+- Configure and validate DHCP in a controlled lab.
+- Troubleshoot client addressing issues.
+
+### 4. Windows Desktop Support
+- Practise Windows installation and initial configuration.
+- Troubleshoot common operating-system, application, and connectivity issues.
+- Use a structured approach to resolve end-user problems.
+
+### 5. Network Troubleshooting Commands
+
+| Command | Purpose |
+|---|---|
+| `ipconfig /all` | View detailed IP configuration |
+| `ping` | Test reachability between devices |
+| `tracert` | Trace the route to a destination |
+| `nslookup` | Query DNS records |
+| `arp -a` | View the local ARP cache |
+
+### 6. Server and Storage Fundamentals
+- Learn basic server hardware and maintenance concepts.
+- Understand RAID levels and their general use cases.
+- Review storage health, backups, and operational checks.
+
+## Projects
+
+### Cisco Packet Tracer – VLAN and Inter-VLAN Routing Lab
+**Objective:** Practise network segmentation and communication between VLANs.
+
+**Planned lab activities:**
+- Build a small switched network.
+- Configure VLAN 10 and VLAN 20.
+- Assign switch ports and configure trunking.
+- Configure inter-VLAN routing.
+- Test and document connectivity.
+
+> Add your actual topology, configuration snippets, verification commands, and screenshots after completing and validating the lab.
+
+### LIFI (Light Fidelity)
+**Period:** November 2017 – December 2017
+
+Developed an academic wireless optical networking project using LED technology for data transmission as an alternative to Wi-Fi.
+
+### Human Security Key Chain
+**Period:** November 2017 – December 2017
+
+Designed an academic Bluetooth-enabled emergency key chain concept that sends distress messages to a linked mobile phone in critical situations.
+
+## Troubleshooting Method
+
+I use a structured troubleshooting process:
+
+1. Identify the issue and gather information.
+2. Check physical connections, power, and link status.
+3. Review IP configuration and network settings.
+4. Test connectivity using appropriate commands.
+5. Isolate the likely cause and apply a solution.
+6. Verify the result with the user or through testing.
+7. Document the issue, resolution, and preventive steps.
+
+## Repository Structure
+
+As you add practical work, organise the repository in a structure such as:
+
+```text
+network-engineer-portfolio/
+├── README.md
+├── networking-fundamentals/
+├── cisco-vlan-labs/
+├── routing-and-switching/
+├── dhcp-and-dns/
+├── windows-desktop-support/
+├── troubleshooting/
+├── server-maintenance/
+└── screenshots/
+```
+
+## Learning and Development
+
+I am continuously strengthening my networking and IT support skills through study, lab practice, documentation, and troubleshooting exercises. The examples in this portfolio should be treated as learning demonstrations unless accompanied by evidence of completed and tested work.
+
+## Contact
+
+**Jabbar Shariff**  
+- LinkedIn: [Add your LinkedIn profile URL](https://www.linkedin.com/)
+- Email: Add your professional email address
+- Location: India
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Jabbar-shariff&icon=0&color=4)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/ilaahi) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+*Thank you for visiting my portfolio. I welcome opportunities to learn, contribute, and grow in networking and IT support.*
